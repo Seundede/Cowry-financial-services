@@ -1,0 +1,102 @@
+.pricing_section {
+  padding: 100px 0 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #fafafa;
+}
+.pricing_container-card {
+  background: linear-gradient(45deg, #0660e9 0%, #276afb 100%);
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.2);
+  width: 270px;
+  height: 500px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.pricing_container-card:nth-child(2) {
+  transform: scale(1.05);
+  background: #242424;
+  margin: 0 24px;
+}
+.pricing_container-card:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease-out;
+  color: #1c2237;
+}
+.pricing_container {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pricing_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 0 auto;
+}
+.pricing_heading {
+    color: #1c2237;
+    margin-bottom: 54px;
+    font-size: 25px;
+    font-weight: bolder; 
+}
+.pricing_container-cardInfo {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    padding: 24px;
+    align-items: center;
+    color: white;
+}
+.pricing_container-cardInfo h3 {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+.pricing_container-cardInfo h4 {
+    font-size: 40px;
+}
+.pricing_container-cardInfo p {
+    margin-bottom: 24px;
+    font-size: 14px;
+}
+.pricing_container-features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px 0 32px;
+    list-style: none;
+}
+.pricing_container-features li {
+   margin-bottom: 10px;
+}
+.icon {
+    margin: 24px 0;
+}
+@media screen and (max-width: 960px) {
+    .pricing_container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .pricing_wrapper {
+        display: flex;
+        margin: 0 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pricing_container-card {
+        width: 90%;
+        margin-bottom: 15px;
+    }
+    .pricing_container-card:nth-child(2) {
+        transform: scale(1);
+        margin-bottom: 15px;
+    }
+    .pricing_container-card:hover {
+        transform: none;
+    }
+
+}
