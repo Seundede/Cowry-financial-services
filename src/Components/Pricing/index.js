@@ -25,7 +25,7 @@ function Pricing() {
                     <ul className="pricing_container-features">
                       <li>100 Transactions</li>
                       <li>2% Cash Back</li>
-                      <li>#10,000 Limit</li>
+                      <li>₦10,000 Limit</li>
                     </ul>
                     <Button buttonSize="btn-wide" buttonColor="primary">
                       Choose Plan
@@ -44,7 +44,7 @@ function Pricing() {
                     <ul className="pricing_container-features">
                       <li>100 Transactions</li>
                       <li>2% Cash Back</li>
-                      <li>#10,000 Limit</li>
+                      <li>₦10,000 Limit</li>
                     </ul>
                     <Button buttonSize="btn-wide" buttonColor="blue">
                       Choose Plan
@@ -63,7 +63,7 @@ function Pricing() {
                     <ul className="pricing_container-features">
                       <li>100 Transactions</li>
                       <li>2% Cash Back</li>
-                      <li>#10,000 Limit</li>
+                      <li>₦10,000 Limit</li>
                     </ul>
                     <Button buttonSize="btn-wide" buttonColor="primary">
                       Choose Plan
