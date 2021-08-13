@@ -20,7 +20,7 @@ function Pricing() {
                       <FaFire />
                     </div>
                     <h3>Starter</h3>
-                    <h4>#2000</h4>
+                    <h4>₦2000</h4>
                     <p>per month</p>
                     <ul className="pricing_container-features">
                       <li>100 Transactions</li>
@@ -39,7 +39,7 @@ function Pricing() {
                       <FaFire />
                     </div>
                     <h3>Starter</h3>
-                    <h4>#2000</h4>
+                    <h4>₦2000</h4>
                     <p>per month</p>
                     <ul className="pricing_container-features">
                       <li>100 Transactions</li>
@@ -58,7 +58,7 @@ function Pricing() {
                       <FaFire />
                     </div>
                     <h3>Starter</h3>
-                    <h4>#2000</h4>
+                    <h4>₦2000</h4>
                     <p>per month</p>
                     <ul className="pricing_container-features">
                       <li>100 Transactions</li>
