@@ -1,10 +1,8 @@
-COWRY FINANCIAL WEBSITE
+# COWRY FINANCIAL WEBSITE
 
 Cowry is a financial website that provides  secure financial services with affordable pricing and cashbacks. It was built with create-react-app - featuring  Hooks, Router and  react icons.
 
-DEMO
-
-https://xenodochial-brown-9d137a.netlify.app/
+# [LINK](https://xenodochial-brown-9d137a.netlify.app/)
 
 # Getting Started with Create React App
 
